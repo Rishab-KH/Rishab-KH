@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋 I'm Rishab Khuba. With a keen eye for data and a knack for solving problems, I thrive on turning complex challenges into actionable insights
 
 <!--
 **Rishab-KH/Rishab-KH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
