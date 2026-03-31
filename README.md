@@ -7,7 +7,7 @@ Data Scientist with 4+ years of experience delivering end-to-end data-driven sol
 - 🔭 I'm currently working on **Vision Language Models (VLMs), Large Language Models, MLOps, Agentic AI, Data Engineering Pipelines & ML**
 - 🌱 I'm currently learning about **productionalizing machine learning models and Kubernetes**
 - 💬 Ask me about **Finetuning LLMs, Computer Vision, Retrieval Augmented Generation (RAG)**
-- 📫 How to reach me: **khuba.rishab1999@gmail.com**
+- 📫 How to reach me: **khuba.rishab@gmail.com**
 - 😄 Pronouns: **He/Him**
 
 ---
@@ -28,8 +28,12 @@ Data Scientist with 4+ years of experience delivering end-to-end data-driven sol
 | Project | Description |
 |---------|-------------|
 | [**Early-Sepsis-Prediction**](https://github.com/Rishab-KH/Early-Sepsis-Prediction) | End-to-end MLOps pipeline for early sepsis detection from clinical data — featuring Airflow DAGs, automated retraining, batch inference, and model monitoring on GCP. |
-
-> *More projects pinned below — take a look!*
+| [**Grocery-Recsys-RAG-Agent**](https://github.com/Rishab-KH/Grocery-Recsys-RAG-Agent) | AI-powered grocery recommendation system combining a Retrieval Augmented Generation pipeline with an agentic workflow for personalized product suggestions. |
+| [**Chatbot-for-research-paper-using-RAG**](https://github.com/Rishab-KH/Chatbot-for-research-paper-using-RAG) | Conversational chatbot that lets users query and interact with research papers using RAG-based retrieval and LLM-powered responses. |
+| [**Predict-New-Medicines-using-DNA-Encoded-Libraries**](https://github.com/Rishab-KH/Predict-New-Medicines-using-DNA-Encoded-Libraries) | ML models for drug discovery — predicting new medicine candidates by analyzing DNA-encoded chemical library screening data. |
+| [**Stock-market-analysis-using-Kafka**](https://github.com/Rishab-KH/Stock-market-analysis-using-Kafka) | Real-time stock market data ingestion and analysis pipeline built with Apache Kafka for streaming and processing financial data at scale. |
+| [**Waste-Water-Management-Cluster-Analysis**](https://github.com/Rishab-KH/Waste-Water-Mangement-Cluster-Analysis) | Unsupervised clustering analysis on wastewater treatment data to identify patterns and optimize management strategies. |
+| [**Boston-Bluebikes-Usage-Analysis-and-Seasonal-Demand-Forecasting**](https://github.com/Rishab-KH/Boston-Bluebikes-Usage-Analysis-and-Seasonal-Demand-Forecasting) | Exploratory analysis and time-series demand forecasting for Boston's Bluebikes bike-sharing system across seasons and stations. |
 
 ---
 
@@ -38,9 +42,11 @@ Data Scientist with 4+ years of experience delivering end-to-end data-driven sol
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com/?user=Rishab-KH&theme=tokyonight&hide_border=true" alt="Rishab's Streak" height="165" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishab-KH&theme=tokyonight" alt="Rishab's Profile Details" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishab-KH&theme=tokyonight" alt="Top Languages by Repo" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishab-KH&theme=tokyonight" alt="Stats" height="165" />
@@ -61,16 +67,3 @@ Data Scientist with 4+ years of experience delivering end-to-end data-driven sol
 </p>
 
 <p align="center"><i>"Data is the new oil, but insights are the engine."</i></p>
-
-<!--
-**Rishab-KH/Rishab-KH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Vision Language Models (VLMs), Large Language Models and MLOps
-- 🌱 I’m currently learning about productionalizing machine learning models and kubernetes
-- 💬 Ask me about Finetuning LLMs, Computer Vision, Retrieval Augmented Generation 
-- 📫 How to reach me: khuba.r@northeastern.edu
-- 😄 Pronouns: He/Him
-- 
--->
