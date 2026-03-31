@@ -36,12 +36,14 @@ Data Scientist with 4+ years of experience delivering end-to-end data-driven sol
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishab-KH&show_icons=true&theme=tokyonight&hide_border=true" alt="Rishab's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishab-KH&theme=tokyonight&hide_border=true" alt="Rishab's Streak" height="165" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Rishab-KH&theme=tokyonight&hide_border=true" alt="Rishab's Streak" height="165" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishab-KH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishab-KH&theme=tokyonight" alt="Rishab's Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishab-KH&theme=tokyonight" alt="Top Languages by Repo" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishab-KH&theme=tokyonight" alt="Stats" height="165" />
 </p>
 
 ---
