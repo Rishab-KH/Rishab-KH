@@ -40,10 +40,6 @@ Data Scientist with 4+ years of experience delivering end-to-end data-driven sol
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Rishab-KH&theme=tokyonight&hide_border=true" alt="Rishab's Streak" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishab-KH&theme=tokyonight" alt="Rishab's Profile Details" />
 </p>
 
