@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Rishab Khuba. With a keen eye for data and a knack for solving problems, I thrive on turning complex challenges into actionable insights
 
-Data Scientist with 4+ years of experience delivering end-to-end data-driven solutions spanning machine learning, data engineering, and AI. Graduate of Northeastern University, I'm passionate about building scalable ML systems and leveraging cutting-edge AI to solve real-world problems.
+Data Scientist and Engineer with 3+ years of experience delivering end-to-end data-driven solutions spanning machine learning, data engineering, and AI. Graduate of Northeastern University, I'm passionate about building scalable ML systems and leveraging cutting-edge AI to solve real-world problems.
 
 ---
 
@@ -37,7 +37,7 @@ Data Scientist with 4+ years of experience delivering end-to-end data-driven sol
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishab-KH&theme=tokyonight" alt="Rishab's Profile Details" />
