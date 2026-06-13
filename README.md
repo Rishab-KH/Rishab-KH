@@ -27,7 +27,7 @@ Data Scientist and Engineer with 3+ years of experience delivering end-to-end da
 
 | Project | Description |
 |---------|-------------|
-| [**Early-Sepsis-Prediction**](https://github.com/Rishab-KH/Early-Sepsis-Prediction) | End-to-end MLOps pipeline for early sepsis detection from clinical data — featuring Airflow DAGs, automated retraining, batch inference, and model monitoring on GCP. |
+| [**Early-Sepsis-Prediction**](https://github.com/Rishab-KH/Early-Sepsis-Prediction) | End-to-end MLOps pipeline for early sepsis detection from clinical data, featuring Airflow DAGs, automated retraining, batch inference, and model monitoring on GCP. |
 | [**Grocery-Recsys-RAG-Agent**](https://github.com/Rishab-KH/Grocery-Recsys-RAG-Agent) | AI-powered grocery recommendation system combining a Retrieval Augmented Generation pipeline with an agentic workflow for personalized product suggestions. |
 | [**Chatbot-for-research-paper-using-RAG**](https://github.com/Rishab-KH/Chatbot-for-research-paper-using-RAG) | Conversational chatbot that lets users query and interact with research papers using RAG-based retrieval and LLM-powered responses. |
 | [**Predict-New-Medicines-using-DNA-Encoded-Libraries**](https://github.com/Rishab-KH/Predict-New-Medicines-using-DNA-Encoded-Libraries) | ML models for drug discovery predicting new medicine candidates by analyzing DNA-encoded chemical library screening data. |
